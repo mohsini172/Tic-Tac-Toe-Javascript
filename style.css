@@ -1,0 +1,30 @@
+body
+{
+	background-color: #8080ff;
+}
+
+.OneBlock
+{
+	background-color: #;
+    margin: -2px;
+}
+
+.borderLeft
+{
+    border-left: 10px solid white;
+}
+
+.borderTop
+{
+    border-Top: 10px solid white;
+}
+
+.borderRight
+{
+    border-Right: 10px solid white;
+}
+
+.borderBottom
+{
+    border-bottom: 10px solid white;
+}
